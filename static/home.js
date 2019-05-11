@@ -11,50 +11,55 @@ Actively looking for new opportunities. Aim to bring fresh and efficient ideas t
 
 ### iOS Developer at Beijing Boya Junyi Healthcare Management Co.,Ltd.
 
-### eDrMD AR
-- UI/UX design (Sketch).
-- Image detection and tracking (ARKit).
-- Human hand and lungs cell determination (ARKit, Core ML, Vision).
+["eDrMD AR"](https://itunes.apple.com/app/edrmd-ar/id1390447437?mt=8)
+- UI/UX design.
+- Image detection and tracking.
+- Human hand and lungs cell determination.
+- <span>Swift</span> <span>ARKit</span> <span>Core ML</span> <span>Vision</span> <span>Sketch</span>
 
-### eDrMD 
-- Scan section UI/UX design (Sketch).
-- Image detection (Wikitude SDK).
+["eDrMD"](https://itunes.apple.com/app/医得/id1398124947)
+- Scan section UI/UX design .
+- Image detection.
+- <span>Objective-C</span> <span>Wikitude SDK</span> 
 
-// #### Nov 2016 - Feb 2018 (Beijing, China)
+#### Jun 2018 - Jul 2018 (Almaty, Kazakhstan)
 
-// ### Web & Mobile Developer at Intellection Startup Center
+###  Mobile Developer | Boot camp
 
-// - Developed [“Wunder”](https://www.wunder.kz/) project, a online courses platform for schools, which helps to get into programming with various types of tasks (code judging, online compiler, quizzes, open questions, video and text lessons, etc.).
-// - Developed [“Printani”](https://teleginzhenya.github.io/printani/), a service that helps to print photos with various settings.
-// - Developed **mobile application for Invictus Fitness**, that manages queue for athletes in functional training zone.
-// - Worked on development of **“Kazakh Adventure” project**, that helps tourists to find tour in Kazakhstan.
-// - Participated in development of **Intellection Studio web site**, that represent the copmany and its services.
-// - Worked on development of **“craftbeer24” project**, online shop that sells craftbeer with delivery in Almaty.
-// - Developed and designed **“#KazakhstanMakesGood” mobile application** from scratch, that provides possibility to buy digital postcards in order to make a contribution to charity.
-// - Developed **“PhoenixNews” mobile application**, a news aggregator where user can chose source of the news.
-// - Developed a **backend service** that parses news from various sources.
-// - <span>JavaScript</span> <span>Node.js</span> <span>React</span> <span>React Native</span> <span>Redux</span> <span>Swift</span> <span>MongoDB</span> <span>Firebase</span>
+- Introduced to JavaScript and React Native.
+- Lectures are included soft skills, UI and UX design lectures, Agile / Scrum, ML, Big Data.
+- GraphQL as a backend for Android and iOS app development.
+- <span>JavaScript</span> <span>React Native</span> <span>Redux</span> <span>GraphQL</span> <span>Jupyter Notebook</span> <span>Python</span>
 
-// ## Education
+#### Jun 2017 - Aug 2017 (Astana, Kazakhstan)
 
-// #### Oct 2018 - Dec 2018
+###  iOS Developer | Boot camp
 
-// ### Yandex Frontend School
+- Lectures are included iOS Development (Swift, UIKit, ARKit, Firebase, Cocoapods), UI/UX (Sketch, Design Principles), Product Pitching.
+- Special lectures are included 12 big guests from tech industries, top companies and top entrepreneurs. 
+- <span>Swift</span> <span>Firebase</span> <span>UI/UX</span>
 
-// Additional [educational program](https://academy.yandex.ru/events/frontend/) related to frontend
+## Education
 
-// #### 2014 - 2018
+#### 2016 - 2019 (Beijing, China)
 
-// ### International Information Technology University, Almaty, Kazakhstan
+### University of Science and Technology Beijing
 
-// BSc Computer Systems and Software Engineering <small>(3.65 Overall GPA)</small>
+BSc Computer Science and Technology
 
-// ## Awards
+- China Government Scholarship holder.
+- Lectures are in Chinese.
 
-// - 3<sup>rd</sup> place on **HalykFinTech Hackathon** (Feb 2016)
-// - 4<sup>th</sup> place on **MegaAlmaty Hackathon** (Feb 2016)
-// - Participated in [Hacktoberfest 2017](https://hacktoberfest.digitalocean.com/) (Oct 2017)
-// - Participated in [Hacktoberfest 2018](https://hacktoberfest.digitalocean.com/) (Oct 2018)
+#### 2015 - 2016 (Changchun, China)
+
+### Northeast Normal University
+
+Foundation Chinese Studies
+
+- Passed HSK Level 4 (Chinese Proficiency Test).
+- Admitted to the University.
+- Intensive, from morning to evening Chinese courses.
+- Face to face speaking practice with native students.
 
 ## Links
 

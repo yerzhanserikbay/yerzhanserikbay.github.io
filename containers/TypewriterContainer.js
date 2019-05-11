@@ -9,7 +9,7 @@ const DELAY_BETWEEN_WORDS = 2000;
 const DELAY_BETWEEN_BACKSPACE = 75;
 
 const CONTENT = [
-  { icon: ["fas", "angle-right"], text: "Evgeniy Telegin" },
+  { icon: ["fas", "angle-right"], text: "Yerzhan Serikbay" },
   {
     icon: ["fab", "github"],
     text: "yerzhanserikbay",
@@ -27,7 +27,7 @@ const CONTENT = [
   },
   {
     icon: ["fab", "telegram"],
-    text: "@zhenyatelegin",
+    text: "@yerzhanserikbay",
     link: "http://telegram.me/yerzhanserikbay"
   },
   {
