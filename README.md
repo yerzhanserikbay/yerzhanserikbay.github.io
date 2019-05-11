@@ -22,4 +22,4 @@ If you have a question, find a bug, or just want to say hi, please open an [issu
 
 ## License
 
-[MIT License](./LICENSE) © Evgeniy Telegin
+[MIT License](./LICENSE) © Yerzhan Serikbay
