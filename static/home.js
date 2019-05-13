@@ -7,7 +7,7 @@ Actively looking for new opportunities. Aim to bring fresh and efficient ideas t
 
 ## Experience
 
-#### Mart 2018 - Present (Beijing, China)
+#### Mar 2018 - Present (Beijing, China)
 
 ### iOS Developer at Beijing Boya Junyi Healthcare Management Co.,Ltd.
 
