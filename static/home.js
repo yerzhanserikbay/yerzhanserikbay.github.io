@@ -20,7 +20,7 @@ Actively looking for new opportunities. Aim to bring fresh and efficient ideas t
 
 [Bots for ERG Group] 
 - 65,000 employees
-- <span>Python</span> <span>Flask</span> <span>Django</span> <span>aiohttp</span> <span>Docker</span> <span>Ubuntu Server</span> <span>Postgres</span> <span>DevOps</span>
+- <span>Python</span> <span>Flask</span> <span>Django</span> <span>aiohttp</span> <span>Docker</span> <span>Ubuntu Server<span> <span>Postgres</span> <span>DevOps</span>
 
 [Tracenet]
 - Coronavirus spreading tracker
