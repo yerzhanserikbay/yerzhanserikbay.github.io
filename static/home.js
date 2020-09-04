@@ -5,7 +5,31 @@ Hi there! 👋 My name is **Yerzhan**.
 
 Actively looking for new opportunities. Aim to bring fresh and efficient ideas to a company. Ready to consult about Chinese Tech Market. Passionate about iOS Development with ML/AR technologies.
 
+
+
 ## Experience
+
+#### Oct 2019 - Present (Nur-Sultan, Kazakhstan)
+
+### Backend & iOS Developer at BTS Digital
+- Scrum management methodology with Jira tools
+
+["pyAitu"](https://github.com/btsdigital/pyAitu)
+- SDK for Aito Bot API
+- <span>Python</span> <span>aiohttp</span>
+
+[Bots for ERG Group] 
+- 65,000 employees
+- <span>Python</span> <span>Flask</span> <span>Django</span> <span>aiohttp</span> <span>Docker</span> <span>Ubuntu Server</span> <span>Postgres</span> <span>DevOps</span>
+
+[Tracenet]
+- Coronavirus spreading tracker
+- <span>Swift</span> <span>Core Location</span> <span>Core Bluetooth</span>
+
+[ERG Access]
+- Access card for employees
+- <span>Swift</span> <span>Core Bluetooth</span> <span>NFC</span>
+
 
 #### Mar 2018 - Present (Beijing, China)
 
@@ -21,6 +45,7 @@ Actively looking for new opportunities. Aim to bring fresh and efficient ideas t
 - Scan section UI/UX design .
 - Image detection.
 - <span>Objective-C</span> <span>Wikitude SDK</span> 
+
 
 #### Jun 2018 - Jul 2018 (Almaty, Kazakhstan)
 
@@ -39,6 +64,8 @@ Actively looking for new opportunities. Aim to bring fresh and efficient ideas t
 - Special lectures are included 12 big guests from tech industries, top companies and top entrepreneurs. 
 - <span>Swift</span> <span>Firebase</span> <span>UI/UX</span>
 
+
+
 ## Education
 
 #### 2016 - 2019 (Beijing, China)
@@ -49,6 +76,7 @@ BSc Computer Science and Technology
 
 - China Government Scholarship holder.
 - Lectures are in Chinese.
+
 
 #### 2015 - 2016 (Changchun, China)
 
@@ -61,10 +89,11 @@ Foundation Chinese Studies
 - Intensive, from morning to evening Chinese courses.
 - Face to face speaking practice with native students.
 
-## Links
 
+## Links
+[Leetcode](https://leetcode.com/yerzhanserikbay)
 [GitHub](https://github.com/yerzhanserikbay)
-[LinkedIn](https://www.linkedin.com/in/yerzhanserikbay/)
+[LinkedIn](https://www.linkedin.com/in/yerzhanserikbay)
 [Telegram](http://telegram.me/yerzhanserikbay)
 [Twitter](https://twitter.com/yerzhanserikbay)
 [Medium](https://medium.com/@yerzhanserikbay)
